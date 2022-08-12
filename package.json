@@ -18,8 +18,8 @@
     "src/*"
   ],
   "dependencies": {
-    "snarkjs": "git+https://github.com/tornadocash/snarkjs.git#869181cfaf7526fe8972073d31655493a04326d5",
-    "circomlib": "git+https://github.com/tornadocash/circomlib.git#5beb6aee94923052faeecea40135d45b6ce6172c"
+    "snarkjs": "git+https://github.com/nearnadokeyser/snarkjs.git",
+    "circomlib": "git+https://github.com/nearnadokeyser/circomlib.git#478264d8c5cb50cf0688827d233708d82a6ea73e"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
